@@ -23,6 +23,8 @@
 | [БыдлоЛенд](https://smirty8181.github.io/Tg-bidloLand/) | Интерфейс Telegram Mini App для Minecraft-сервера | Статический preview; Telegram, сервер и изменяющие действия отключены |
 | [Agro SaaS](https://smirty8181.github.io/agro-saas/) | Интерфейс управления полями и сельхозоперациями | Статический preview; данные и карта демонстрационные, backend отключён |
 | [Dota 2 MMR Tracker](https://smirty8181.github.io/dota2-mmr-tracker/) | Профиль игрока, рейтинг и история матчей | Статический preview; профиль и матчи вымышлены, Steam и OpenDota отключены |
+| [Twitch Sentinel](https://smirty8181.github.io/Tts/) | Панель управления стримом, пример чата и мониторинга | Статический preview; Twitch, OBS и backend не подключены |
+| [Bot-watch2gether](https://smirty8181.github.io/Bot-watch2gether/) | Макет комнаты совместного просмотра видео | Статический preview; видео, чат, Telegram и синхронизация отключены |
 
 ## Проекты
 
@@ -35,8 +37,8 @@
 | **БыдлоЛенд** | Экосистема Minecraft-сервера: Telegram-бот, Mini App, FastAPI и Paper-плагин | [Preview Mini App](https://smirty8181.github.io/Tg-bidloLand/) · [Код](https://github.com/Smirty8181/Tg-bidloLand) |
 | **Agro SaaS** | Панель сельхозопераций: поля, карта, планирование, погода и аналитика | [Демо](https://smirty8181.github.io/agro-saas/) · [Код](https://github.com/Smirty8181/agro-saas) |
 | **Dota 2 MMR Tracker** | История матчей, расчётный рейтинг и аналитика на основе OpenDota | [Демо](https://smirty8181.github.io/dota2-mmr-tracker/) · [Код](https://github.com/Smirty8181/dota2-mmr-tracker) |
-| **Bot-watch2gether** | Совместный просмотр видео в Telegram: комнаты, синхронизация и чат | [Код](https://github.com/Smirty8181/Bot-watch2gether) |
-| **Twitch Sentinel** | Локальная панель Twitch с мониторингом чата, озвучкой и интеграциями OBS | [Код](https://github.com/Smirty8181/Tts) |
+| **Bot-watch2gether** | Совместный просмотр видео в Telegram: комнаты, синхронизация и чат | [Демо](https://smirty8181.github.io/Bot-watch2gether/) · [Код](https://github.com/Smirty8181/Bot-watch2gether) |
+| **Twitch Sentinel** | Локальная панель Twitch с мониторингом чата, озвучкой и интеграциями OBS | [Демо](https://smirty8181.github.io/Tts/) · [Код](https://github.com/Smirty8181/Tts) |
 
 ### Приложения и инструменты для Windows
 
