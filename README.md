@@ -1,34 +1,62 @@
-<h1 align="center">Smirty8181</h1>
-<p align="center"><strong>Создаю настольные, веб- и игровые приложения</strong></p>
-<p align="center"><a href="https://github.com/Smirty8181?tab=repositories">Все проекты</a> · <a href="https://t.me/sovmestniprosmotrbot">Telegram-бот</a></p>
+<div align="center">
+
+# Smirty8181
+
+### Настольные приложения, веб-сервисы и игровые проекты
+
+Разрабатываю интерфейсы и приложения на Vue, TypeScript, Python, Rust, C# и Java. В портфолио — проекты разных форматов: от локальных инструментов для Windows до веб-приложений и модификаций Minecraft.
+
+[Репозитории](https://github.com/Smirty8181?tab=repositories) · [Telegram](https://t.me/sovmestniprosmotrbot)
+
+</div>
 
 ---
 
-> Репозитории в этом портфолио — примеры, прототипы и тестовые работы. Их готовность, стабильность и полнота реализации различаются; не каждый проект предназначен для повседневного или производственного использования.
+> Проекты в профиле — примеры, прототипы и тестовые работы. У них разная степень готовности; наличие демо не означает, что подключены реальные сервисы, серверы или данные.
 
-## Избранные проекты
+## Открыть демо
 
-### Приложения и инструменты для Windows
-- [TrayX](https://github.com/Smirty8181/TrayX) — системный трей, управление звуком и панели для нескольких мониторов.
-- [Universal Device Manager](https://github.com/Smirty8181/universal-device-manager) — управление HID-устройствами, зарядом, RGB-профилями и макросами.
-- [Focus Keeper](https://github.com/Smirty8181/focus-keeper) — управление фокусом нескольких окон и назначение устройств ввода.
-- [Stickly](https://github.com/Smirty8181/Stickly) — заметки-стикеры и небольшие списки дел с локальным автосохранением.
-- [НейроЗетка](https://github.com/Smirty8181/NeyroZetka) — настольная ИИ-соведущая для Twitch с голосовым управлением и интеграцией с OBS.
+| Проект | Что можно посмотреть | Формат |
+|---|---|---|
+| [Купи весь мир](https://smirty8181.github.io/Buy-the-World/) | Браузерная tycoon-игра: активы, развитие и игровой рынок | Полноценная клиентская игра; прогресс хранится в браузере |
+| [Finora](https://smirty8181.github.io/Finora/) | Интерфейс финансового сервиса и помощник Нова | Статический preview; данные вымышлены, API и операции отключены |
+| [БыдлоЛенд](https://smirty8181.github.io/Tg-bidloLand/) | Интерфейс Telegram Mini App для Minecraft-сервера | Статический preview; Telegram, сервер и изменяющие действия отключены |
+
+## Проекты
 
 ### Веб-приложения и сервисы
-- [Agro SaaS](https://github.com/Smirty8181/agro-saas) — карта полей, планирование работ, погода и аналитика.
-- [Dota 2 MMR Tracker](https://github.com/Smirty8181/dota2-mmr-tracker) — история матчей, расчётный MMR и игровая аналитика.
-- [Bot-watch2gether](https://github.com/Smirty8181/Bot-watch2gether) — совместный просмотр видео в Telegram: комнаты, синхронизация и чат.
-- [Twitch Sentinel](https://github.com/Smirty8181/Tts) — локальная панель мониторинга Twitch с интеграциями ИИ и OBS.
-- [БыдлоЛенд](https://github.com/Smirty8181/Tg-bidloLand) — Telegram-бот, Mini App и интеграция с Minecraft-сервером.
+
+| Проект | Описание | Ссылки |
+|---|---|---|
+| **Finora** | Демонстрационный финансовый интерфейс на Vue с помощником Новой и поиском по FAQ на FastAPI | [Демо](https://smirty8181.github.io/Finora/) · [Код](https://github.com/Smirty8181/Finora) |
+| **Купи весь мир** | Русскоязычная tycoon-игра на Vue: покупка активов, развитие и события рынка | [Играть](https://smirty8181.github.io/Buy-the-World/) · [Код](https://github.com/Smirty8181/Buy-the-World) |
+| **БыдлоЛенд** | Экосистема Minecraft-сервера: Telegram-бот, Mini App, FastAPI и Paper-плагин | [Preview Mini App](https://smirty8181.github.io/Tg-bidloLand/) · [Код](https://github.com/Smirty8181/Tg-bidloLand) |
+| **Agro SaaS** | Панель сельхозопераций: поля, карта, планирование, погода и аналитика | [Код](https://github.com/Smirty8181/agro-saas) |
+| **Dota 2 MMR Tracker** | История матчей, расчётный рейтинг и аналитика на основе OpenDota | [Код](https://github.com/Smirty8181/dota2-mmr-tracker) |
+| **Bot-watch2gether** | Совместный просмотр видео в Telegram: комнаты, синхронизация и чат | [Код](https://github.com/Smirty8181/Bot-watch2gether) |
+| **Twitch Sentinel** | Локальная панель Twitch с мониторингом чата, озвучкой и интеграциями OBS | [Код](https://github.com/Smirty8181/Tts) |
+
+### Приложения и инструменты для Windows
+
+| Проект | Описание | Ссылки |
+|---|---|---|
+| **TrayX** | Системный трей Windows 11, звук и панели для нескольких мониторов; C#, WPF и Rust | [Релизы](https://github.com/Smirty8181/TrayX/releases) · [Код](https://github.com/Smirty8181/TrayX) |
+| **Universal Device Manager** | Управление HID-устройствами, профилями и настройками периферии; Vue, Rust и Tauri | [Код](https://github.com/Smirty8181/universal-device-manager) |
+| **Focus Keeper** | Утилита Windows для управления фокусом нескольких окон и устройств ввода | [Код](https://github.com/Smirty8181/focus-keeper) |
+| **Stickly** | Заметки-стикеры и списки дел с локальным сохранением для Windows | [Код](https://github.com/Smirty8181/Stickly) |
+| **НейроЗетка** | Настольная ИИ-соведущая для Twitch: голос, чат и интеграция с OBS | [Код](https://github.com/Smirty8181/NeyroZetka) |
 
 ### Minecraft и стриминг
-- [TwitchCraft](https://github.com/Smirty8181/TwitchMod) — Fabric-мод, связывающий Minecraft с командами из чата Twitch.
-- [Voice Control](https://github.com/Smirty8181/NoKeybord-mod) — голосовое управление Minecraft с локальным распознаванием речи.
+
+| Проект | Описание | Ссылки |
+|---|---|---|
+| **TwitchCraft** | Fabric-мод, позволяющий зрителям управлять Minecraft командами из чата Twitch | [Modrinth](https://modrinth.com/mod/twitchcraft) · [Код](https://github.com/Smirty8181/TwitchMod) |
+| **Voice Control** | Fabric-мод с локальным распознаванием речи для голосового управления Minecraft | [Релизы](https://github.com/Smirty8181/NoKeybord-mod/releases) · [Код](https://github.com/Smirty8181/NoKeybord-mod) |
 
 ## Технологии
-`Rust` · `Tauri` · `TypeScript` · `JavaScript` · `Vue` · `React` · `Node.js` · `Python` · `Java` · `C#` · `WPF` · `PostgreSQL`
+
+`Vue` · `TypeScript` · `JavaScript` · `React` · `Python` · `FastAPI` · `Rust` · `Tauri` · `C#` · `WPF` · `Java` · `Fabric` · `PostgreSQL`
 
 ---
 
-Все проекты и обновления — на [странице репозиториев](https://github.com/Smirty8181?tab=repositories).
+Подробности, инструкции, скриншоты и ограничения каждого проекта — в его репозитории. Для Windows-приложений и Minecraft-модов доступны исходный код и релизы; браузерное демо публикуется там, где его можно показать без подмены реальных серверных функций.
