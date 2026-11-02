@@ -21,6 +21,8 @@
 | [Купи весь мир](https://smirty8181.github.io/Buy-the-World/) | Браузерная tycoon-игра: активы, развитие и игровой рынок | Полноценная клиентская игра; прогресс хранится в браузере |
 | [Finora](https://smirty8181.github.io/Finora/) | Интерфейс финансового сервиса и помощник Нова | Статический preview; данные вымышлены, API и операции отключены |
 | [БыдлоЛенд](https://smirty8181.github.io/Tg-bidloLand/) | Интерфейс Telegram Mini App для Minecraft-сервера | Статический preview; Telegram, сервер и изменяющие действия отключены |
+| [Agro SaaS](https://smirty8181.github.io/agro-saas/) | Интерфейс управления полями и сельхозоперациями | Статический preview; данные и карта демонстрационные, backend отключён |
+| [Dota 2 MMR Tracker](https://smirty8181.github.io/dota2-mmr-tracker/) | Профиль игрока, рейтинг и история матчей | Статический preview; профиль и матчи вымышлены, Steam и OpenDota отключены |
 
 ## Проекты
 
@@ -31,8 +33,8 @@
 | **Finora** | Демонстрационный финансовый интерфейс на Vue с помощником Новой и поиском по FAQ на FastAPI | [Демо](https://smirty8181.github.io/Finora/) · [Код](https://github.com/Smirty8181/Finora) |
 | **Купи весь мир** | Русскоязычная tycoon-игра на Vue: покупка активов, развитие и события рынка | [Играть](https://smirty8181.github.io/Buy-the-World/) · [Код](https://github.com/Smirty8181/Buy-the-World) |
 | **БыдлоЛенд** | Экосистема Minecraft-сервера: Telegram-бот, Mini App, FastAPI и Paper-плагин | [Preview Mini App](https://smirty8181.github.io/Tg-bidloLand/) · [Код](https://github.com/Smirty8181/Tg-bidloLand) |
-| **Agro SaaS** | Панель сельхозопераций: поля, карта, планирование, погода и аналитика | [Код](https://github.com/Smirty8181/agro-saas) |
-| **Dota 2 MMR Tracker** | История матчей, расчётный рейтинг и аналитика на основе OpenDota | [Код](https://github.com/Smirty8181/dota2-mmr-tracker) |
+| **Agro SaaS** | Панель сельхозопераций: поля, карта, планирование, погода и аналитика | [Демо](https://smirty8181.github.io/agro-saas/) · [Код](https://github.com/Smirty8181/agro-saas) |
+| **Dota 2 MMR Tracker** | История матчей, расчётный рейтинг и аналитика на основе OpenDota | [Демо](https://smirty8181.github.io/dota2-mmr-tracker/) · [Код](https://github.com/Smirty8181/dota2-mmr-tracker) |
 | **Bot-watch2gether** | Совместный просмотр видео в Telegram: комнаты, синхронизация и чат | [Код](https://github.com/Smirty8181/Bot-watch2gether) |
 | **Twitch Sentinel** | Локальная панель Twitch с мониторингом чата, озвучкой и интеграциями OBS | [Код](https://github.com/Smirty8181/Tts) |
 
