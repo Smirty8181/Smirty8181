@@ -61,6 +61,7 @@
 |---|---|---|
 | **TwitchCraft** | Fabric-мод для управления игровыми событиями командами из Twitch-чата | [Modrinth](https://modrinth.com/mod/twitchcraft) · [Код](https://github.com/Smirty8181/TwitchMod) |
 | **Voice Control** | Fabric-мод с локальным распознаванием речи для голосового управления | [Релизы](https://github.com/Smirty8181/NoKeybord-mod/releases) · [Код](https://github.com/Smirty8181/NoKeybord-mod) |
+| **BydloPlugins** | Набор из 10 Paper-плагинов для сервера БыдлоЛенд | [Исходники](https://github.com/Smirty8181/BydloPlugins) |
 
 ## Языки и технологии
 
@@ -71,7 +72,7 @@
 | **Python** — FastAPI и настольные инструменты | [Finora](https://github.com/Smirty8181/Finora), [БыдлоЛенд](https://github.com/Smirty8181/Tg-bidloLand), [Twitch Sentinel](https://github.com/Smirty8181/Tts), [Focus Keeper](https://github.com/Smirty8181/focus-keeper), [Stickly](https://github.com/Smirty8181/Stickly), [НейроЗетка](https://github.com/Smirty8181/NeyroZetka) |
 | **Rust** — системные компоненты и Tauri | [TrayX](https://github.com/Smirty8181/TrayX), [Universal Device Manager](https://github.com/Smirty8181/universal-device-manager) |
 | **C# и WPF** — приложения Windows | [TrayX](https://github.com/Smirty8181/TrayX) |
-| **Java** — Fabric и Paper | [TwitchCraft](https://github.com/Smirty8181/TwitchMod), [Voice Control](https://github.com/Smirty8181/NoKeybord-mod), [БыдлоЛенд](https://github.com/Smirty8181/Tg-bidloLand) |
+| **Java** — Fabric и Paper | [TwitchCraft](https://github.com/Smirty8181/TwitchMod), [Voice Control](https://github.com/Smirty8181/NoKeybord-mod), [БыдлоЛенд](https://github.com/Smirty8181/Tg-bidloLand), [BydloPlugins](https://github.com/Smirty8181/BydloPlugins) |
 
 ---
 
